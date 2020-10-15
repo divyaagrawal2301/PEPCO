@@ -157,6 +157,7 @@ Applications of stacks.
 1. Inifix to postfix and prefix conversions.
 2.Balanced Brackets.
 3.Memory Managements.
+4.Helps in backtracking.
 
 <b> Vectors are resizable arrays </b> 
 
