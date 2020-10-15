@@ -153,6 +153,11 @@ Stack could be explained with the help of real life examples:
 2. ATM Machine 
 3. Pile of Plates 
 
+Applications of stacks.
+1. Inifix to postfix and prefix conversions.
+2.Balanced Brackets.
+3.Memory Managements.
+
 <b> Vectors are resizable arrays </b> 
 
 In a stack, we can follow operations such as push(), pop(), remove(), empty(). 
